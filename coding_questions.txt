@@ -1,1 +1,112 @@
+Placement Material 
 
+1)Factorial Problems
+2)Fibonacci
+3)LCM
+4)GCD
+5)Factors of Given Number
+6)Whether the given number is prime or not
+7)Finding the range of prime number (1-10 -> 2, 3, 5, 7)
+8)sum of consecutive prime
+9)Find the co prime
+10)Find the next immediate prime of the given number
+11)Find the previous prime of the given number
+12)Prime Factorization
+13)Square Free numbers
+14)100 doors problem
+15)whether the given character is lowercase , uppercase or number
+16)remaining days problem
+17)completed days problem
+18)alphabets pattern (A-Z)
+19)inner reducing pattern
+20)snake pattern
+21)sandwich pattern
+22)butterfly pattern
+23)reverse of a given number
+24)find the count of the given number
+25)find the powers of the given number
+26)alternate swapping
+27)12345 -> 24135 even first odd second
+28)12345 -> 24135 odd first even second
+29)1 -> adam number (scenario)
+30)Armstrong number (scenario)
+31)amicable numbers (scenario)
+32)betrothed numbers (scenario)
+33)abandoned numbers (scenario)
+34)deficiency numbers (scenario)
+35)strong numbers (scenario)
+36)neon numbers (scenario)
+37)spy numbers (scenario)
+38)perfect numbers (scenario)
+39)sunny numbers (scenario)
+40)array backward rotation 
+41)array forward rotation 
+42)1,2,3,4,5 -> 14 12 9 5 0
+43)row wise sorting
+44)column wise sorting
+45)inclined sorting
+46)philaland coin
+47)distributed books
+48)grooving monkeys
+49)100 person in a circle problem
+50)camel and the banana problem
+51)gold rod problem
+52)8cell colony problem
+53)bomb defuse problem
+54)Anagram of a given string
+55)lexicographic arrangement of given string 
+56)palindrome
+57)lcs - longest common subsequences
+58)lis - longest increasing subsequences
+59)lds - longest decreasing subsequences
+60)valid parenthesis or not
+61)balanced parenthesis
+62)encrypted string - a1b2 -> abb
+63)decrypted string - abb -> a1b2
+64)Ravi is a boy!!! -> yoba si i vaR!!! 
+65)I love india -> india love I
+66)I love india -> I evol aidni
+67)permutation of given list
+68)check whether the immediate next permutated value of the given number and return
+69)3 and 7 series formation 3 , 7 , 33 , 37 , 73 , 77 , 333 ,337....
+70)removing vowels from given string
+71)print the unique number or string from a given 
+72)frequency of the digits
+73)Diwali lights
+74)Age of the three daughters
+75)pascal triangle
+76)intersection of two linked list
+77)remove nth from end in leetcode
+78)has cycle leetcode
+79)infix to postfix conversion
+80)inorder , preorder , postorder conversion
+81)tower of hanoi problem - zoho
+82)psuduko game problem - zoho 
+83)flames problem - zoho
+84)bingo problem - zoho
+85)snake game problem
+86)vending machine problem
+87)tiger , goat and grass riddle problem
+88)email validation 
+89)password validation
+90)phonenumber validation
+91)hamming distance
+92)4 temple flower problem
+93)manucunian and pandigital Numbers problem. 
+94)odd even linked list
+95)flatten nested list iterator 
+96)kth smallest element in sorted order
+97)Enthiran problem
+98)Jailer factorial
+99)Darbar problem
+100)Search a 2d matrix II
+101)house robber
+102)number of island 
+103)coin change
+104)find the celebrity
+105)factorial trailing zeros
+106)Gas station problem
+107)dictionary problem
+108)product of array except self
+109)happy numbers
+110)climbing stairs
